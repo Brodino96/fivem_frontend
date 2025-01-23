@@ -1,0 +1,8 @@
+root {
+    --text: white
+}
+
+body {
+    background: black;
+    color: white;
+}
